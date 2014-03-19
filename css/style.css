@@ -1,0 +1,24 @@
+.kader {
+	background-color: #333333;
+	padding: 20px;
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+.btn-default {
+	margin-top: 15px;
+
+}
+
+.kader h2 {
+	color: white;
+}
+.nav-pills {
+	background-color: #333333;
+}
+.nav-pills>li.active>a{
+	border-radius: 0px;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
+	border-radius: 0px;
+}
