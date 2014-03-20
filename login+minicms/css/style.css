@@ -1,0 +1,39 @@
+.kaderlogin {
+	background-color: #333333;
+	padding-bottom: 20px;
+	padding-top: 10px;
+	padding-left: 20px;
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+.kader {
+	background-color: #333333;
+	padding: 20px;
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+.btn-default {
+	margin-top: 15px;
+
+}
+.kaderlogin h2 {
+	color: white;
+}
+.kader h2 {
+	color: white;
+}
+		nav { background-color: #424242; padding: 5px 15px 8px; text-align: right; }
+		nav a { color: #f1f1f1; font-size: 0.9em; text-decoration: none; }
+.nav-pills {
+	background-color: #333333;
+}
+.nav-pills>li.active>a{
+	border-radius: 0px;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
+	border-radius: 0px;
+}
+.space {
+	margin: 10px;
+}
